@@ -65,7 +65,7 @@ https://www.w3schools.com/jsref/met_win_clearinterval.asp
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1aR2AB4owhi3xh_-dXO07WvKxhjYA2fh_/view)
+[My 5-minute Interview Recording](https://loom.com/share/6a8b23cb93b2414ab02e3f51e6dfb701)
 
 
 ## License
