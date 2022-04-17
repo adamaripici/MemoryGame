@@ -6,7 +6,7 @@ Submitted by: **Ada Pici**
 
 Time spent: **12** hours spent in total
 
-Link to project: (https://glitch.com/edit/#!/obvious-yielding-ellipse)
+Link to project: (https://obvious-yielding-ellipse.glitch.me/)
 
 ## Required Functionality
 
